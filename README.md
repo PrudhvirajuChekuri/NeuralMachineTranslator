@@ -1,6 +1,6 @@
 # Instructions to generate parallel datasets for low-resource languages.
 
-1) Download UIPath studio.
+1) Download the UIPath Studio and its browser extension. Enable the extension in your browser.
 2) Download the ParallelCorpus.zip from the static directory.
 3) Unzip it and place it in the UIPath directory(Path given during installation).
 4) Collect the English sentences you want to use for training, and add them to a text file.
@@ -16,3 +16,9 @@
    steps:
    -> Scroll down until you see the "Browser URL" element.
    -> Then double-click on the URL and change the 'sl' and 'tl' values to your desired language codes.
+
+## Sample Input
+![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/6b18ae6c-de26-4c7d-9fe7-5b8a9b9cc711)
+
+## Sample Output
+![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/42a70dac-cb83-4ca6-b073-dfd94a9356f8)
