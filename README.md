@@ -16,9 +16,11 @@
    steps:
    -> Scroll down until you see the "Browser URL" element.
    -> Then double-click on the URL and change the 'sl' and 'tl' values to your desired language codes.
+9) The parallel dataset for your language can be found in the output.txt file. Execution time depends on the size of the input file. You can monitor the progress with the help of the count.txt file which stores the number of sentences processed.
 
 ## Sample Input
-![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/6b18ae6c-de26-4c7d-9fe7-5b8a9b9cc711)
+![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/c1891372-f338-42f3-be74-3bdac8ed5647)
 
 ## Sample Output
-![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/42a70dac-cb83-4ca6-b073-dfd94a9356f8)
+![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/cda52f75-d06b-4db8-a430-ef520e007380)
+
