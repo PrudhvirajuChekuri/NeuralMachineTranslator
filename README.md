@@ -1,4 +1,4 @@
-To generate parallel datasets for low-resource languages follow the instructions:
+# Instructions to generate parallel datasets for low-resource languages.
 
 1) Download UIPath studio.
 2) Download the ParallelCorpus.zip from the static directory.
@@ -15,4 +15,4 @@ To generate parallel datasets for low-resource languages follow the instructions
 8) The default source and target languages are English and Hindi. To change them, follow these
    steps:
    -> Scroll down until you see the "Browser URL" element.
-   -> Then double-click on the URL and change the 'sl' and 'tl' values to your desired languages.
+   -> Then double-click on the URL and change the 'sl' and 'tl' values to your desired language codes.
