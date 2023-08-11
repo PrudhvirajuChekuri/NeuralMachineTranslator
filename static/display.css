@@ -1,0 +1,160 @@
+.mar_cards{
+    margin:6rem 0 0 3rem!important;
+}
+.footer_ {
+    padding: 1.7rem 1rem;
+    background-color: white;
+    /* background: red; */
+}
+body{
+    min-height:100vh;
+}
+.center_{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* flex-basis: auto;
+    flex-grow:
+    flex-shrink: */
+}
+.img_logo{
+    height: 3rem;
+    width: auto;
+    object-fit: cover;
+}
+.content_nav{
+    font-size: larger;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,rgb(0, 81, 255),#ffcc13);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+}
+.new_content_nav{
+    font-size: larger;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,rgb(0, 0, 255),#ffcc13);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+}
+.neww_content_nav{
+    font-size: larger;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,rgb(0, 100, 0),#ffcc13);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+}
+.feedback_{
+    justify-content: flex-end;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.mar_card{
+    margin:6rem 0 0 5rem!important;
+}
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:23rem;
+}
+.custom-button:focus {
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+.forfeed {
+    margin: 0 10rem 0 -10rem;
+}
+
+.container {
+    padding: 20px;
+    margin: 20px;
+}
+  
+form {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+.my-custom-card {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.my-custom-card .card-body {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.my-custom-cardd .card-body {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.my-custom {
+    min-height: 80rem;
+    margin-top: -10px;
+}
+
+.form-control {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+.my-custom-cardd {
+    height: 450px;
+    width: 1000px;
+    padding: 20px;
+    margin: -30px -10px 10px 20px;
+    border: 1px solid #ccc;
+}
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+    perspective: 1000px;
+}
+  
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+  
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(-180deg);
+}
+  
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+  
+.flip-card-front {
+    background-color: #ffffff;
+    color: black;
+}
+  
+.flip-card-back {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    transform: rotateY(180deg);
+}
+
+.my-custom-carddd .card-body {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.my-custom-carddd {
+    height: 250px;
+    width: 1000px;
+    padding: 20px;
+    margin: -100px -10px 10px 20px;
+    border: 3px solid #c6c2c2;
+}
