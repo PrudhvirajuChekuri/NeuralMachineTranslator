@@ -21,7 +21,8 @@
 
 Sample Input
 
-![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/c1891372-f338-42f3-be74-3bdac8ed5647)
+![image](https://github.com/PrudhvirajuChekuri/NeuralMachineTranslator/assets/96725900/b3beece0-02a5-417d-98f3-fdec00ab44b8)
+
 
 Sample Output
 
